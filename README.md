@@ -16,7 +16,7 @@ What if you could research on it?
 > Beyond The Building,\
 > A World is Waiting To be Discovered
 
-Update: This is right now just a basic prototype of the 3d view of the campus, testing out first-person mode
+Update: This is right now just a basic prototype of the 3d view of the campus, testing out first-person mode\
 Plan for future: 2D and 3D navigatable Atlas for Flora and Fauna in the campus
 
 <img width="100%" alt="chrome_67OCoELwMx" src="https://github.com/user-attachments/assets/3ee19e3e-1ff7-48a5-bce0-b40ca6e04481" />
