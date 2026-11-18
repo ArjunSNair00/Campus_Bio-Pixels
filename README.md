@@ -1,4 +1,4 @@
-# Campus Bio Pixels - 
+# Campus Bio Pixels
 
 ***WE WALK THIS CAMPUS EVERY DAY.
 HOW MUCH OF IT HAVE WE REALLY SEEN?***
